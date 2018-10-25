@@ -25,3 +25,7 @@ body {
 #featured img {
   border: 2px solid rgb(151,171,165);
 }
+
+#zetsy_footer {
+  text-align: right
+}
