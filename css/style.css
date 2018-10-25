@@ -18,3 +18,33 @@ body {
 }
 
 /* Write all remaining styles here */
+.header_color {
+  color: rgb(160,178,172);
+}
+
+#featured img {
+  border: 2px solid rgb(151,171,165);
+}
+
+#zetsy_footer {
+  text-align: right;
+  font-size: 0.8em;
+}
+
+#press {
+  margin-bottom: 20px;
+}
+
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
+  size: 236px 155px;
+}
+
+#press img:hover {
+  border: 5px rgb(111,127,122) solid;
+}
+
+#press a {
+  height: 236px
+}
