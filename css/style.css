@@ -40,6 +40,11 @@ body {
   padding: 1px;
   size: 236px 155px;
 }
+
+#press img:hover {
+  border: 5px rgb(111,127,122) solid;
+}
+
 #press a {
   size: 236px 17px
 }
