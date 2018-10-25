@@ -18,3 +18,10 @@ body {
 }
 
 /* Write all remaining styles here */
+.header_color {
+  color: rgb(160,178,172);
+}
+
+#featured img {
+  border: 2px solid rgb(151,171,165);
+}
